@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,618 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 1
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 2
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 3
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 4
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 5
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 6
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 7
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 8
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 9
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 10
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 11
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 12
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 13
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 14
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 15
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 16
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 17
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 18
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 19
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 20
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 21
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 22
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 23
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 24
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 25
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 26
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 27
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 28
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 29
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 30
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 31
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 32
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 33
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 34
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 35
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 36
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 37
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 38
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 39
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 40
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 41
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 42
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 43
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 44
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 45
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 46
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 47
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 48
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 49
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 50
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 51
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 52
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 53
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 54
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 55
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 56
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 57
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 58
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 59
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 60
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 61
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 62
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 63
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 64
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 65
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 66
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 67
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 68
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 69
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 70
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 71
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 72
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 73
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 74
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 75
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 76
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 77
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 78
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 79
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 80
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 81
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 82
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 83
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 84
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 85
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 86
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 87
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 88
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 89
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 90
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 91
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 92
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 93
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 94
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 95
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 96
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 97
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 98
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 99
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 100
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 101
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 102
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 103
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 104
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 105
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 106
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 107
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 108
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 109
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 110
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 111
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 112
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 113
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 114
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 115
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 116
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 117
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 118
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 119
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 120
+    },
+    {
+      "userName": "me123",
+      "userEmail": "me123@hotmail.com",
+      "id": 121
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
